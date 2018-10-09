@@ -1,0 +1,27 @@
+h1 {
+    color: whitesmoke;
+    font-weight: bold;
+  }
+  
+.headline {
+    padding: 200px;
+}
+
+.navbar-dark .navbar-brand {
+    color:rgba(65, 163, 82, 0.9);
+    font-weight: bold;
+}
+
+.jumbotron {
+background-image: url(Mount\ Pleasant\ Panoramic\ 2.jpg);
+background-attachment: fixed;
+background-size: cover;
+font-weight: bold;
+padding: 1cm;
+}
+
+.display-4 {
+font-size: 3.5rem;
+font-weight: 300;
+line-height: 1.2;
+font-weight: bold;
